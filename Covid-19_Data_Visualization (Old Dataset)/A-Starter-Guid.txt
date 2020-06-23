@@ -1,4 +1,4 @@
-Hello Guys... hope you all are safe and health.
+Hello Guys... hope you all are safe and healthy.
 
 This project will make you familar with some basics of data visualization.
 
