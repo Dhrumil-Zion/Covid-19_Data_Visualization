@@ -2,10 +2,10 @@ Hello Guys... hope you all are safe and healthy.
 
 This project will make you familar with some basics of data visualization.
 
-It contains basic of data manupalation , data ploting with many variations ,analysis with maps and comparision of 
-different libraries to plot data.
+It contains basic of data manupalation, data ploting with many variations, analysis with maps and comparision of 
+different libraries (Matplotlib , Plotly , Plotly Express , Pandas built n-functions ) to plot data.
 
-Hope it will be helpful to you for starting Data Visualization... :)
+Hope it will be helpful to you for starting Data Visualization. :)
 
 
 Intallation Guid :-
